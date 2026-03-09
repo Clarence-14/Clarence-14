@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Clarence-14/Clarence-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 
 
-Here are some ideas to get you started:
+I am a Web Developer and student. I am currently pursuing a Telecommunications Degree. I focus on building practical, community-oriented applications while continuously expanding my technical scope.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ About Me
+* Developing a comprehensive property management web application tailored for Kenya's affordable housing scheme as my final year project.
+* Managing the web infrastructure for pceamiracle.org, including building custom modules for hymns and church announcements.
+* Expanding my knowledge base beyond standard web development by studying microprocessors (Intel 8086/8051), assembly language, and physics concepts like lasers and masers.
+* Outside of technology, I spend time analyzing special investment funds like Mansa-X and Oak Fund, and following US politics.
+
+Technical Skills
+Languages: PHP, JavaScript, Python, HTML5, CSS
+Frameworks & Libraries: Bootstrap
+Tools & Infrastructure: Git, GitHub, Private Repository Backup Management
+
+### GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=Clarence-14&hide_border=true&background=transparent)
+
+
+
+
 - ⚡ Fun fact: ...
 -->
