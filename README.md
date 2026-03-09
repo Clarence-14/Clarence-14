@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# [Your Name]
-
 I am a Telecommunications Engineering student and a Web Developer. I focus on building practical applications, exploring hardware systems, and expanding my knowledge in Artificial Intelligence.
 
 ### About Me
