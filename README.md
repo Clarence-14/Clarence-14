@@ -24,7 +24,7 @@ I am a Telecommunications Engineering student and a Web Developer. I focus on bu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=Clarence-14&hide_border=true&background=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Clarence-14)
 
 
 
